@@ -44,6 +44,8 @@ DOMAIN-SUFFIX,wifi.cmcc
 
 # 服务器
 DOMAIN-SUFFIX,118.178.254.235
-DOMAIN-SUFFIX,118.178.254.235:6969
 DOMAIN-SUFFIX,lyhpeautopass.top
-DOMAIN-SUFFIX,lyhpeautopass.top:6969
+DOMAIN-SUFFIX,swimmingliu.cn
+
+#ZSTU服务器
+DOMAIN-SUFFIX,zstu.cn
